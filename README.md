@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas Emad Abd-Elmoaty</h1>
-<h3 align="center">Data Science and machine learning Engineer &
-Flutter developer </h3>
+<h3 align="center">Data Science and machine learning Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasemad21&label=Profile%20views&color=0e75b6&style=flat" alt="anasemad21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasemad21" alt="anasemad21" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Ai**
+- 🌱**Data Science and Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anasemad21](https://github.com/anasemad21)
 
